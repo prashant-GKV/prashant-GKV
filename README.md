@@ -2,7 +2,7 @@
 
 ### 🚀 Check out my Portfolio Website
 
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://prashant-saini.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://prashant-portfolio-lac.vercel.app/)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?logo=vercel&logoColor=white)](https://prashant-saini.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prashant.saini__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-saini-0660aa294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps0875135@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?logo=vercel&logoColor=white)](https://prashant-portfolio-lac.vercel.app/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__prashant.saini__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-saini-0660aa294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps0875135@gmail.com) 
 
 # 💻 Tech Stack:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
