@@ -2,7 +2,7 @@
 
 # Hi, I'm Prashant Saini 👋
 
-### Full Stack Developer · AI Enthusiast · Cloud Learner · Data Analyst
+### Full Stack Developer · AI Engineer · Cloud Learner · Data Analyst
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;Turning+resumes+into+mock+interviews;Java+%7C+Python+%7C+React+%7C+Next.js;185%2B+problems+solved+on+LeetCode)](https://prashant-portfolio-lac.vercel.app/)
 
